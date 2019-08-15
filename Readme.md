@@ -3,7 +3,7 @@
 #### By **Melissa Kobia**
 ## Description
 This website clearly describes me and my various projects in details. 
-Check out this link to see the project 
+Check out this link to see the project https://melissakobia.github.io/my-portfolio/
 ## Setup/Installation Requirements
 * Download the repository 
 * Save the directory to your desired location
