@@ -9,6 +9,7 @@ h1 {
 }
  .image {
    align-content: center;
+   float: none;
  }
 
  h3 {
