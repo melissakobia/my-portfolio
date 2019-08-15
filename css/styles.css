@@ -1,0 +1,12 @@
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+.main {
+  background-origin: padding-box;
+  border: 2px solid;
+  font: inherit;
+}
+ .image {
+   align-content: center;
+ }
